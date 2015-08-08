@@ -1,0 +1,432 @@
+title: iOS 实战项目开发:团购之网络请求
+classinfo:  本课程将在上节课实现项目功能的基础上，实现团购项目的网络请求相关功能。当选中下拉菜单中的某一项时，通过通知中心向其它页面发送数据模型，并向服务器发送网络请求，获得数据。 
+classtime: 3课时 57分钟
+learn_number: 2259人学习
+class_level: 中级
+
+title: 画笔面板进阶
+classinfo:  本课程主要讲解画笔面板预设的进阶知识，内容包括画笔笔尖形状及其动态、散布、纹理、双重画笔、颜色动态、传递以及画笔笔势、杂色、湿边、建立、平滑与保护纹理，希望帮助学员深入了解画笔的使用技巧以及不同预设下的画笔效果。 
+classtime: 4课时 49分钟
+learn_number: 2226人学习
+class_level: 中级
+
+title: Axure 交互之部件行为（上）
+classinfo:  本课程学习 Axure 部件交互行为的第一部分，包括显示/隐藏行为、设置文本和设置图像行为、设置选择/选中行为和设置指定列表项行为，学会如何在原型设计中使用这些交互行为。 
+classtime: 4课时 36分钟
+learn_number: 2100人学习
+class_level: 中级
+
+title: TK2D 物理引擎
+classinfo:  本课程主要讲述 TK2D 插件中物理引擎组件的使用，通过对该插件的讲解和操作演示，对 Unity3D 中使用TK2D 插件实现物理效果做基本的了解。 
+classtime: 3课时 32分钟
+learn_number: 2063人学习
+class_level: 中级
+
+title: OpenGL ES 帧缓冲对象
+classinfo:  本课程首先基于 OpenGL ES 2.0 实例讲解 Frame buffer object 的原理和应用，然后讲解 Render buffer object 的原理与应用，最后讲解 Render into texture 的渲染技术。 
+classtime: 3课时 30分钟
+learn_number: 2036人学习
+class_level: 中级
+
+title: Python 算法入门详解
+classinfo:  本课程主要讲解 Python 中算法等知识，包括快速排序、选择排序、二路并归排序、搜索算法等，并配以示例加以理解。 
+classtime: 7课时 152分钟
+learn_number: 2222人学习
+class_level: 中级
+
+title: C++ 字符串操作的通用函数（一）
+classinfo:  本课程主要讲解 string 类提供的构造器和析构器、大小和容量相关函数、元素存取等操作函数及其用法。 
+classtime: 4课时 48分钟
+learn_number: 2160人学习
+class_level: 中级
+
+title: 自定义 View 基础和原理
+classinfo:  本课程主要讲解最简单的自定义 View，然后加入绘制元素（文字和图形等），接着让绘制的元素动起来。接下来进行封装自己的通用自定义 View，最后演示通过 xml 中的样式属性来影响显示效果。本课程的重点是利用 Canvas 来绘制逻辑线程，通过本课程的学习希望可以熟练使用 xml 的样式属性在自定义 View 中应用。 
+classtime: 5课时 73分钟
+learn_number: 2979人学习
+class_level: 初级
+
+title: MATLAB 程序设计基础
+classinfo:  MATLAB 与其它高级语言一样，也可以进行复杂的程序设计。本课程主要涉及 MATLAB 文件类型，MATLAB 常量和变量。 
+classtime: 3课时 23分钟
+learn_number: 2121人学习
+class_level: 初级
+
+title: 3D 图形学入门
+classinfo:  本课程主要讲解 3D 图形学入门基础知识，内容包括坐标系、点、线和面，转换的通俗概念以及矩阵、纹理和着色器等。通过本课程学习，学员可对 3D 图形学的概念、背景有一定了解，并为学习 WebGL 打下坚实的基础。 
+classtime: 5课时 19分钟
+learn_number: 2539人学习
+class_level: 初级
+
+title: Windows 10 应用程序生命周期
+classinfo:  从用户启动应用程序，到应用程序结束，期间都发生了哪些事情？开发者需要做哪些处理工作？本课程主要向学员讲述如何在应用程序生命周期的各个阶段中做出响应，以便更好地管理应用程序数据，提升用户体验。 
+classtime: 3课时 19分钟
+learn_number: 2209人学习
+class_level: 初级
+
+title: iOS 设计模式简介
+classinfo:  本课程主要讲解 iOS 设计模式的基础知识，软件设计基本原则以及对应的代码示例，为后续讲解具体的设计模式奠定基础。 
+classtime: 3课时 40分钟
+learn_number: 2688人学习
+class_level: 中级
+
+title: CCIE 概述及模拟器的使用
+classinfo:  本课程主要讲解 CCIE R&S 的知识框架及学习方法，介绍 CCIE 的考试流程。并且通过对模拟器软件的讲解，使学生懂得如何利用软件为自己的实验提供环境。 
+classtime: 3课时 34分钟
+learn_number: 2084人学习
+class_level: 高级
+
+title: 创建 IMDb Search App 的用户界面
+classinfo:  本课程是 Swift 构建 IMDb 电影搜索项目开发实战系列课程的第一课，主要讲解使用故事板搭建用户界面的方法，及创建相应的 IBOutlet 和 IBAction 关联的方法。 
+classtime: 3课时 32分钟
+learn_number: 2157人学习
+class_level: 初级
+
+title: 深入学习 URL
+classinfo:  本课程首先深入讲解 URL 的语法，包括 URI、 URL、 URN的概念与关系，还有 URL 各组件的作用；然后认识一下什么是相对 URL ，它是如何进行解析的；最后了解一下 URL 的字符集、编码机制和字符限制。 
+classtime: 3课时 44分钟
+learn_number: 2468人学习
+class_level: 初级
+
+title: React 相关开发工具
+classinfo:  本课程介绍和 React 相关的三个开发工具，分别用于项目构建和代码合并。学完本课程后，可以了解如何实现开发流程自动化以及模块化。 
+classtime: 3课时 47分钟
+learn_number: 2210人学习
+class_level: 高级
+
+title: 动手写第一个 Three.js 程序
+classinfo:  本课程介绍建立基本三维场景所需要的元素，并进一步添加相机控制、加载 OBJ 模型和添加天空盒以丰富场景。本课程通过动手写一个三维场景，让大家了解 Three.js 开发的基本过程，体验 Three.js 的高效与便捷。 
+classtime: 5课时 40分钟
+learn_number: 2308人学习
+class_level: 初级
+
+title: Shell脚本的运行控制
+classinfo:  本课程介绍Shell脚本的运行时相关的概念和使用，包含Linux系统中信号的概念和在脚本中的使用，脚本后台运行的方法，定时运行脚本的方法，以及开机自动运行脚本的方法 
+classtime: 4课时 47分钟
+learn_number: 2155人学习
+class_level: 中级
+
+title: 基于 Oauth 2.0 的第三方账号登录程序
+classinfo:  本课程讲解支持使用第三方账号进行登录的一个小 Web 应用程序的实现，内容主要涵盖 Oauth 2.0 原理与授权流程、应用架构设计与编程实现。 
+classtime: 6课时 91分钟
+learn_number: 2230人学习
+class_level: 中级
+
+title: C++ 字符串简介
+classinfo:  本课程主要讲述 C++ 标准程序库中的字符串处理类 string 和智能指针 auto_ptr。讲解字符的特点和字符串类模板的基础知识。 
+classtime: 3课时 24分钟
+learn_number: 2138人学习
+class_level: 中级
+
+title: OpenGL 环境光
+classinfo:  本课程学习：OpenGL 光照的基本概念，明确几种典型类型的光源。并且了解基本的光照模型“Ambient / Diffuse / Specular”。课程中重点讲解环境光，并且实际编写代码实现相应的效果。 
+classtime: 3课时 41分钟
+learn_number: 2053人学习
+class_level: 初级
+
+title: Python 科学计算——pandas 篇
+classinfo:  Python 是一种面向对象的、动态的程序设计语言，具有非常简洁而清晰的语法，既可以用于快速开发程序脚本，也可以用于开发大规模的软件，特别适合于完成各种高层任务。本课程主要讲解 Python 中用于科学计算的常用库，包括 pandas 等，帮助学员进一步了解科学计算。 
+classtime: 4课时 33分钟
+learn_number: 2163人学习
+class_level: 中级
+
+title: 走进 Axure 变量
+classinfo:  本课程讲解全局变量和局部变量的使用以及介绍  Axure  的内置变量，学会变量值如何在页面间进行传递，最后我们会通过一个实例，制作简易计算器来进一步掌握变量的使用。 
+classtime: 4课时 70分钟
+learn_number: 2094人学习
+class_level: 中级
+
+title: 数据结构之数组和链表
+classinfo:  本课程首先介绍数组和链表在实际问题中的应用，之后介绍基于数组和链表拓展的另外两种高级数据结构，间接寻址和模拟指针。 
+classtime: 3课时 62分钟
+learn_number: 2097人学习
+class_level: 初级
+
+title: Go 语言切片 slice
+classinfo:  本课程学习什么是切片，以及如何在 Go 语言中正确地使用切片，并配以示例加以理解。 
+classtime: 5课时 65分钟
+learn_number: 2074人学习
+class_level: 初级
+
+title: 对 Cassandra 系统架构的深度解析
+classinfo:  本课通过对 Cassandra 中数据一致性、读写原理、节点传输协议、分区器、Snitch、虚拟节点、数据复制的介绍讲解 Cassandra 数据库的系统架构。学习完本节课，将会对 Cassandra 的实现原理有一个比较清晰的了解。 
+classtime: 3课时 44分钟
+learn_number: 2078人学习
+class_level: 高级
+
+title: Nagios 的部署与运行
+classinfo:  本课程主要讲解如何安装部署 Nagios，学习后可以在自己的环境中搭建和运行 Nagios 系统。 
+classtime: 4课时 50分钟
+learn_number: 2056人学习
+class_level: 初级
+
+title: Python 科学计算——绘图篇
+classinfo:  Python 是一种面向对象的、动态的程序设计语言，具有非常简洁而清晰的语法，既可以用于快速开发程序脚本，也可以用于开发大规模的软件，特别适合于完成各种高层任务。本课程主要讲解 Python 中用于科学计算的常用库，包括 matplotlib、mpl_toolkits 等，帮助学员进一步了解科学计算。 
+classtime: 3课时 31分钟
+learn_number: 2291人学习
+class_level: 中级
+
+title: ResourceManager 详述
+classinfo:  本课程主要介绍 YARN 的资源协调器 ResourceManager 的作用以及其中各个组件的主要作用。 
+classtime: 3课时 31分钟
+learn_number: 2048人学习
+class_level: 中级
+
+title: Perl 哈希
+classinfo:  本课程讲解 Perl 中最具特色的哈希结构，内容包括哈希的定义、特点、基本操作和典型应用。 
+classtime: 5课时 107分钟
+learn_number: 2110人学习
+class_level: 初级
+
+title: Ruby 代码调试
+classinfo:  本课程讲解 Ruby 代码调试 (debugging)，并配以示例加以理解。 
+classtime: 4课时 16分钟
+learn_number: 28人学习
+class_level: 高级
+
+title: Meteor 开发环境部署
+classinfo:  本课程主要介绍 Meteor 的安装及开发环境搭建。 
+classtime: 6课时 29分钟
+learn_number: 2123人学习
+class_level: 初级
+
+title: Linux 系统编程之标准 IO 编程
+classinfo:  本课程学习使用标准输入输出函数接口操作普通文件的内容，主要理解文件内容操作方式和函数接口的使用。学完后可以在 Linux 平台下，用库函数灵活地操作文件内容进行读写，并且掌握出错处理方式，写出高可移植的代码。  
+classtime: 4课时 57分钟
+learn_number: 2133人学习
+class_level: 初级
+
+title: Storm 实战进阶： DataOptTopology实例
+classinfo:  本课程为 Storm 应用开发实战的进阶，结合消息队列MQ，为大家呈现一个相对比较完整的 Storm 开发过程。其中涉及了 Metaq 集群的部署、Storm 与 Metaq 的结合、与 Mysql 的结合使用等。 
+classtime: 4课时 59分钟
+learn_number: 2111人学习
+class_level: 中级
+
+title: React 组件性能调优
+classinfo:  本课程会介绍如何通过工具发现组件中的性能热点并对其进行优化。学完本课程之后可以有效地提高组件性能。 
+classtime: 3课时 57分钟
+learn_number: 2189人学习
+class_level: 中级
+
+title: Shell编程中的函数
+classinfo:  本课程讲解Shell编程中函数的使用，包含函数的语法、函数输出和退出码，函数参数的访问和处理，函数中变量的作用范围，以及函数库的使用 
+classtime: 4课时 27分钟
+learn_number: 2177人学习
+class_level: 初级
+
+title: Node.js 实践：创建 Web 服务器和 TCP 服务器
+classinfo:  本课程主要介绍如何使用 Node.js 来开发 Web 服务器和 TCP 服务器。包括使用 Node.js 的 http 核心模块搭建 Web 服务器，使用 Express 来搭建 Web 服务器与 Express 的简单介绍，以及使用 net 核心模块来编写 TCP 服务器和客户端程序。 
+classtime: 3课时 48分钟
+learn_number: 2289人学习
+class_level: 中级
+
+title: 基于 Servlet 增删改查学生信息
+classinfo:  本课程将实现录入、查询、修改和删除学生信息功能。本课程学习以下知识：通过 JSP 页面发出录入、查询、修改、删除学生信息的请求后后，提交给 Servlet ，结合 JDBC 技术，由 JavaBean 和其它辅助类共同配合，完成学生信息的增删改查。 
+classtime: 3课时 53分钟
+learn_number: 2295人学习
+class_level: 中级
+
+title: C++迭代器
+classinfo:  迭代器是连接容器和算法的纽带，它为数据提供了一种抽象的观点，使写算法者不必关心多种多样的数据结构和具体细节。本课程主要讲解迭代器概念及特性、迭代器配接器和迭代器辅助函数。  
+classtime: 6课时 74分钟
+learn_number: 2155人学习
+class_level: 中级
+
+title: HTML5 微场景实战
+classinfo:  本课程主要讲解如何使用 HTML5 实现一个微场景，通过 CSS3 与 JavaScript 的配合，完成 PPT 中的基础动作，实现华丽的动画效果。本课程既是 HTML5 的实例，也是 JavaScript 的实例，课程讲解主要是思路分析、需求转换和代码解析，同时也会详细的讲解代码的调试和错误的排除。 
+classtime: 7课时 190分钟
+learn_number: 3126人学习
+class_level: 初级
+
+title: DevOps: 使用 Ruby 来运维你的 Rails 应用
+classinfo:  通过实例来介绍如何使用 Ruby 的工具栈来运维同样是用 Ruby 编写的 Rails 应用，包括 Rails Console 的使用，编写 Rake Task, 用 Backup 对数据库进行备份等。  
+classtime: 4课时 24分钟
+learn_number: 2091人学习
+class_level: 中级
+
+title: kafka的初认识
+classinfo:  本课程首先对kafka的使用背景（kafka是什么，能够用来做什么，为什么要使用它）进行简单的介绍，然后会介绍kafka的一些基本概念，其后边演示边讲解zookeeper集群和kafka集群的搭建，最后会对kafka集群的一些配置参数进行详细的解释。 
+classtime: 4课时 79分钟
+learn_number: 2086人学习
+class_level: 初级
+
+title: 图片缩放库 Photoview 和 Gif  控件 GifView 的使用
+classinfo:  本课程主要讲解 Android 中对图片的单点、触摸缩放的库 PhotoView 的使用以及可播放 Gif 动画图片的控件库 GifView 的基本使用。 
+classtime: 3课时 17分钟
+learn_number: 2677人学习
+class_level: 中级
+
+title: 设计模式之复合模式
+classinfo:  本课程先讲述什么是复合模式，然后举例一个复杂的鸭子项目我们引入多个模式来处理。之后重点讲解经典的 MVC 复合模式的模式结构和原理。 
+classtime: 3课时 33分钟
+learn_number: 2293人学习
+class_level: 中级
+
+title: 定向爬虫：动态加载网页的爬取
+classinfo:  当前大部分网页使用了 AJAX  异步加载技术，很多内容都是通过 JavaScript 动态加载的，于是在网页源代码里面找不到需要的内容。本课程着重讲解如何爬取这种类型的网站。 
+classtime: 4课时 35分钟
+learn_number: 2921人学习
+class_level: 高级
+
+title: Microsoft SQL Server各种工具的使用技巧
+classinfo:  本课程主要讲解 SQL Server所提供各种工具使用方法，掌握不同工具的使用技巧，应用于各种场景下的问题的跟踪和分析。 
+classtime: 5课时 62分钟
+learn_number: 2250人学习
+class_level: 初级
+
+title: 嵌入式系统简介
+classinfo:  本课程介绍了嵌入式计算机系统的概念、单片嵌入式系统的概念、单片机的发展历程和趋势以及单片嵌入式系统的结构与应用领域。 
+classtime: 5课时 59分钟
+learn_number: 2390人学习
+class_level: 初级
+
+title: Linux 服务器 NTP 实战
+classinfo:  本课程讲解什么是网络时钟同步服务及意义，并且熟练掌握如何在 Linux 上配置 NTP 服务。 
+classtime: 3课时 26分钟
+learn_number: 2112人学习
+class_level: 中级
+
+title: PL/SQL 中的包
+classinfo:  本课程主要讲解如何使用 PL/SQL 中的包来组织一系列相关的变量以及存储过程和函数等元素，其中涵盖其基本概念，包的结构、包声明以及包主体的定义和使用。 
+classtime: 3课时 22分钟
+learn_number: 2160人学习
+class_level: 中级
+
+title: Axure 交互之链接行为
+classinfo:  本课程讲解 Axure 链接交互行为，包括当前窗口打开链接、新窗口/标签页打开链接、弹出窗口打开链接、父窗口打开链接、关闭窗口、内部框架打开链接、父框架打开链接以及滚动到部件（锚点链接），通过链接交互行为，实现我们页面的切换效果。 
+classtime: 3课时 27分钟
+learn_number: 2122人学习
+class_level: 中级
+
+title: Lua 基本介绍和环境搭建
+classinfo:  本课程学习 Lua 语言的基本介绍，以及如何在 Windows 平台，Linux 平台以及 Mac 平台上搭建 Lua 的开发环境。 
+classtime: 4课时 20分钟
+learn_number: 2422人学习
+class_level: 初级
+
+title: 细说 HTTP 的报文格式和工作流程
+classinfo:  本次课程将深入学习 HTTP 的报文格式，和一次完整的 HTTP 事务的工作流程，最后会通过 Telnet 程序演示一个HTTP请求的例子。 
+classtime: 3课时 47分钟
+learn_number: 2221人学习
+class_level: 初级
+
+title: 第一个 Scala 项目
+classinfo:  本课程带领大家进行第一个 Scala 项目，包括搭建 Scala 的开发系统环境，相关工具的下载和安装；新建 sbt 项目、 Eclipse 项目；最后创建与运行 hello world 项目。 
+classtime: 5课时 30分钟
+learn_number: 2099人学习
+class_level: 初级
+
+title: C++ 表达式（3）
+classinfo:  C++ 提供了一套丰富的操作符，并且定义了这些操作符在内建类型上的使用方法，同时，也允许给类类型定义大多数操作符的意义。本课程的重点是由 C++ 语言定义的、适用于内建类型的操作符表达式。 
+classtime: 3课时 33分钟
+learn_number: 2230人学习
+class_level: 初级
+
+title: 基于 Servlet 技术的学生管理系统
+classinfo:  本课程是基于之前课程的扩展版，引入 Servlet 核心技术，综合运用 JSP、JavaBean、Servlet 核心技术实现学生管理系统的基本功能。本课程将首先实现用户登录和注销功能。 
+classtime: 3课时 53分钟
+learn_number: 2345人学习
+class_level: 中级
+
+title: MongoDB 索引
+classinfo:  本课将讲解 MongoDB 索引相关的内容，包括索引的类型、索引的属性以及索引的管理。 
+classtime: 3课时 74分钟
+learn_number: 2166人学习
+class_level: 初级
+
+title: Android 开发实战：微博之发微博页面表情面板和接口开发
+classinfo:  本课程中将演示发微博页面里的表情面板功能，会用 ViewPager 嵌套 GridView 的方式实现，每一页都是一组表情图片，点击图片时会将表情加到输入框中，每个 GridView 的末尾还会有一个删除按钮。此外还会介绍接口的开发，微博 API 中对于发布微博提供了多个接口，我们根据微博内容分别调用。 
+classtime: 3课时 47分钟
+learn_number: 2787人学习
+class_level: 中级
+
+title: 使用 SSH 搭建 Git 服务器
+classinfo:  本课程讲解如何使用 SSH 搭建 Git 服务器，并配以示例加以理解。 
+classtime: 3课时 32分钟
+learn_number: 2238人学习
+class_level: 中级
+
+title: SSO（单点登录）实战篇：客户端实现（3）
+classinfo:  本课程继 SSO 服务端的实现之后，开始讲解单点登录 SSO 客户端模块的实现，内容包括项目创建、开发与测试环境搭建、系统设计与编程实现等。并且重点体现设计的思路与最佳实践方式。 
+classtime: 3课时 63分钟
+learn_number: 2181人学习
+class_level: 高级
+
+title: SQL 注入介绍与入门
+classinfo:  本课程主要通过相关说明结合实际的演示，进行SQL 注入原理讲解和介绍，同时将会简单的进行SQL 注入的测试。 
+classtime: 3课时 20分钟
+learn_number: 2596人学习
+class_level: 初级
+
+title: Java线性表之链式表
+classinfo:  本课程讲解线性表的另外一种存储结构——链式表 
+classtime: 4课时 33分钟
+learn_number: 2112人学习
+class_level: 中级
+
+title: 虚幻4零基础入门
+classinfo:  本课程会对虚幻4引擎进行一个大致的介绍，并对基础的界面和操作进行讲解。包括主界面的详细功能介绍和操作，自定义界面和内容浏览器的操作，让新手能对虚幻4编辑器有个直观、基本的印象。 
+classtime: 5课时 32分钟
+learn_number: 2450人学习
+class_level: 初级
+
+title: 使用 TK2D 制作 2D 精灵动画
+classinfo:  讲述使用 TK2D 制作 2D 精灵动画的过程，通过对使用该插件制作精灵动画的讲解和操作演示，完成对 TK2D 插件制作精灵动画相关知识的基本了解。 
+classtime: 4课时 58分钟
+learn_number: 2183人学习
+class_level: 初级
+
+title: JavaScript 设计模式之组合模式
+classinfo:  本课程介绍组合模式，组合模式（Composite）将对象组合成树形结构以表示“部分-整体”的层次结构，组合模式使得用户对单个对象和组合对象的使用具有一致性。 
+classtime: 4课时 13分钟
+learn_number: 2575人学习
+class_level: 高级
+
+title: Redis 的集合类型与有序集合类型
+classinfo:  本课程介绍 Redis 的集合类型与有序集合类型的概念、底层实现以及应用场景，学习集合类型与有序集合类型的命令操作，讲解集合类型与有序结合类型在博客管理系统中的运用。 
+classtime: 5课时 60分钟
+learn_number: 2177人学习
+class_level: 中级
+
+title: VPN 服务实战应用
+classinfo:  本课程讲解如何在 Linux 系统中快速搭建 VPN 服务，满足企业实际应用过程中建立专用网络的需求。 
+classtime: 4课时 45分钟
+learn_number: 2344人学习
+class_level: 中级
+
+title: Python 的数据库连接
+classinfo:  本课程主要向同学们介绍 Python 中的数据库，本课时讲解 Web 开发中关于数据库的知识，以及Python 中对数据库的操作，并使用 Flask 框架完成用户管理模块。 
+classtime: 4课时 38分钟
+learn_number: 2292人学习
+class_level: 初级
+
+title: Spark架构与工作机制
+classinfo:  本课程主要介绍Spark的架构与工作机制。课程中将对Spark的内部模块结构进行详细的阐述，同时对Spark内部调度进行讲解，完成对Spark核心工作机制的剖析。 
+classtime: 3课时 22分钟
+learn_number: 2177人学习
+class_level: 初级
+
+title: RIPV1 和 RIPV2 的区别
+classinfo:  本课主要讲解 RIPV1 个 RIPV2 两个版本的区别以及 RIP 单播更新路由和浮动路由的相关知识。 
+classtime: 3课时 29分钟
+learn_number: 2055人学习
+class_level: 初级
+
+title: Ruby 正则表达式二
+classinfo:  本课介绍了两种正则表达式中常用的匹配模式，匹配一行的首位， 匹配任意的字符，而匹配任意的字符在这里介绍了两种方法来做，一种是使用方括号，也就是字符组，另一种是使用点号来，这两种匹配稍有不同。 
+classtime: 3课时 18分钟
+learn_number: 2046人学习
+class_level: 中级
+
+title: Hibernate 事务处理
+classinfo:  本课程学习在 Hibernate 中事务的应用，主要讲解数据库事务、事务的 ACID 属性、事务并发控制，并能够掌握 Hibernate 中乐观锁的实际应用。 
+classtime: 4课时 30分钟
+learn_number: 2148人学习
+class_level: 中级
+
+title: WPF 属性系统
+classinfo:  本课程将学习 WPF 的属性系统，主要包括依赖属性和附加属性两种类型。 
+classtime: 3课时 29分钟
+learn_number: 2079人学习
+class_level: 中级
+
