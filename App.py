@@ -23,46 +23,46 @@ def parseJkxy(url):
     doc = html.document_fromstring(r.text)
 
     # Save the related information
-    titles_, intros_, courses_, numbers_, levels_ = [], [], [], [], []
+    titleslist, introslist, courseslist, numberslist, levelslist = [], [], [], [], []
 
     # title
     # html body div#wrapper div#pager div#container.asideL div.wrap.w-1000.mar-t20 div#main div.tagGather div.bd div.listbox div#changeid.lesson-list ul.cf li#1680 div.lesson-infor h2.lesson-info-h2 a
     titles = doc.cssselect('ul.cf li div.lesson-infor h2.lesson-info-h2 a')
     for title in titles:
-        titles_.append(title.text_content())
+        titleslist.append(title.text_content())
 
     # introduction
     # html body div#wrapper div#pager div#container.asideL div.wrap.w-1000.mar-t20 div#main div.tagGather div.bd div.listbox div#changeid.lesson-list ul.cf li#1680 div.lesson-infor p
     intros = doc.cssselect('ul.cf li div.lesson-infor p')
     for intro in intros:
-        intros_.append( intro.text_content().replace('\n', ' ').replace('\t', '') )
+        introslist.append( intro.text_content().replace('\n', ' ').replace('\t', '') )
 
     # course time
     # html body div#wrapper div#pager div#container.asideL div.wrap.w-1000.mar-t20 div#main div.tagGather div.bd div.listbox div#changeid.lesson-list ul.cf li#1680 div.lesson-infor div.timeandicon div.cf dl dd.mar-b8 em
     courses = doc.cssselect('ul.cf li div.lesson-infor div.timeandicon div.cf dl dd.mar-b8 em')
     for course in courses:
-        courses_.append( course.text_content().replace('\n', ' ').replace('\t', '') )
+        courseslist.append( course.text_content().replace('\n', ' ').replace('\t', '') )
 
     # learn number
     # html body div#wrapper div#pager div#container.asideL div.wrap.w-1000.mar-t20 div#main div.tagGather div.bd div.listbox div#changeid.lesson-list ul.cf li#1680 div.lesson-infor div.timeandicon div.cf em.learn-number
     numbers = doc.cssselect('ul.cf li div.lesson-infor div.timeandicon div.cf em.learn-number')
     for number in numbers:
-        numbers_.append(number.text_content())
+        numberslist.append(number.text_content())
 
     # level
     # html body div#wrapper div#pager div#container.asideL div.wrap.w-1000.mar-t20 div#main div.tagGather div.bd div.listbox div#changeid.lesson-list ul.cf li#1680 div.lesson-infor div.timeandicon div.cf dl dd.zhongji em
     levels = doc.cssselect('ul.cf li div.lesson-infor div.timeandicon div.cf dl dd.zhongji em')
     for level in levels:
-        levels_.append(level.text_content())
+        levelslist.append(level.text_content())
 
     # write to .txt file
-    for i in range(len(titles_)):
+    for i in range(len(titleslist)):
         with open(txtname, 'a') as f:
-            f.writelines('title: ' + titles_[i] + '\n')
-            f.writelines('classinfo: ' + intros_[i] + '\n')
-            f.writelines('classtime: ' + courses_[i] + '\n')
-            f.writelines('learn_number: ' + numbers_[i] + '\n')
-            f.writelines('class_level: ' + levels_[i] + '\n\n')
+            f.writelines('title: ' + titleslist[i] + '\n')
+            f.writelines('classinfo: ' + introslist[i] + '\n')
+            f.writelines('classtime: ' + courseslist[i] + '\n')
+            f.writelines('learn_number: ' + numberslist[i] + '\n')
+            f.writelines('class_level: ' + levelslist[i] + '\n\n')
 
 
 timestyle = time.strftime('%H%M%S')
